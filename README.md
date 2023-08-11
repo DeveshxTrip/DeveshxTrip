@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, My Name is Devesh Tripathi</h1>
+<h1 align="center"> Greetings 👋, My Name is Devesh Tripathi</h1>
 <h3 align="center">I'm a passionate and committed Full Stack Developer on an endeavour to create outstanding online experiences. I have experience in both front-end and back-end programming, and I enjoy implementing code to make ideas come to life. I thrive in the changing nature of the digital world. My journey began with a fascination for technology and a knack for creativity. I honed my skills in HTML, CSS, and JavaScript to build captivating user interfaces that blend aesthetics with functionality. Embracing the challenges of server-side development, I mastered nodejs, reactjs, and MongoDB, ensuring seamless data management and robust backend systems with Express API Integration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshxtrip&label=Profile%20views&color=0e75b6&style=flat" alt="deveshxtrip" /> </p>
