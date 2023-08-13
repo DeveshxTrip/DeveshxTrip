@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **deveshtrip10@gmail.com**
 
-- ⚡ Fun fact ** My humor is South Indian**
+- ⚡ Fun fact **My humor is South Indian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
