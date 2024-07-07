@@ -19,19 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=deveshxtrip&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-const updateDetails = (url, title, author) => {
-    memeImage.setAttribute("src", url);
-    memeTitle.innerHTML = title;
-    memeAuthor.innerHTML = `Meme by: ${author}`;
-  };
-  
-  const generateMeme = () => {
-    fetch("https://meme-api.com/gimme")
-      .then((response) => response.json())
-      .then((data) => {
-        updateDetails(data.url, data.title, data.author);
-      });
-  };
+
 <img src='' style="height:600px"/>
 
 ---
