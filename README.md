@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=deveshxtrip&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://i.redd.it/hf63e07v18wc1.png' style="height:500px width:w-full"/>
+<img src='https://i.redd.it/hf63e07v18wc1.png' style="height:400px width:w-full"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deveshxtrip&icon=2&color=12)](https://visitcount.itsvg.in)
