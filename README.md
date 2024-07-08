@@ -5,7 +5,7 @@
 <table>
 <td>
   
-![image](https://github.com/DeveshxTrip/DeveshxTrip/assets/93699872/89c1054c-6ba1-420e-aedb-ed3273597ab5)
+<img src="https://github.com/DeveshxTrip/DeveshxTrip/blob/major/giphy.gif" width="480" height="480">   
 
 </td>
   
