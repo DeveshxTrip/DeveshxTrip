@@ -5,7 +5,7 @@
 <table>
 <td>
   
-<img src="https://github.com/DeveshxTrip/DeveshxTrip/blob/major/aboutMe.png" width="1280" height="480">   
+<img src="https://github.com/DeveshxTrip/DeveshxTrip/blob/major/aboutMe.png" width="2180" height="1080">   
 
 </td>
   
