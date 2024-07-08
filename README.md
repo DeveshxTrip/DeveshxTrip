@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>Hi there! I'm Devesh, a passionate computer science student and an enthusiastic full stack developer. I'm always eager to learn and build innovative web applications. With skills in JavaScript, React.js, Typescript, Next.js, and Python for Machine Learning, I love tackling challenges and creating impactful projects. Let's connect and create something amazing together!<br>
-![https://giphy.com/embed/bGgsc5mWoryfgKBx1u](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 
 
 ## 🌐 Socials:
