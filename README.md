@@ -8,7 +8,7 @@ Hi there! I'm Devesh, a passionate computer science student and an enthusiastic 
  
 </tr>
 <tr>
-<img src="https://github.com/DeveshxTrip/DeveshxTrip/blob/major/type-12881_256.gif">   
+<img src="https://github.com/DeveshxTrip/DeveshxTrip/blob/major/type-12881_256.gif" style="height:h-full">   
 </tr>
 </table>
 <br>
