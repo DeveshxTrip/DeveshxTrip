@@ -3,9 +3,7 @@
 <br>
 <table>
 <td>
-<p font size="4"> 
-#(Hi there! I'm Devesh, a passionate computer science student and an enthusiastic full stack developer. I'm always eager to learn and build innovative web applications. With skills in JavaScript, React.js, Typescript, Next.js, and Python for Machine Learning, I love tackling challenges and creating impactful projects. Let's connect and create something amazing together!)
-</p>
+# Hi there! I'm Devesh, a passionate computer science student and an enthusiastic full stack developer. I'm always eager to learn and build innovative web applications. With skills in JavaScript, React.js, Typescript, Next.js, and Python for Machine Learning, I love tackling challenges and creating impactful projects. Let's connect and create something amazing together!
 </td>
   
 <td>
