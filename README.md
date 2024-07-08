@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://commons.wikimedia.org/wiki/File:LinkedIn_Logo.svg#/media/File:LinkedIn_Logo_2013_(2).svg)](https://www.linkedin.com/in/deveshxtrip//) 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg)](https://www.linkedin.com/in/deveshxtrip//) 
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/deveshxtrip) 
 
