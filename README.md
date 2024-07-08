@@ -10,7 +10,7 @@
 </td>
   
 <td>
-<img src="https://github.com/DeveshxTrip/DeveshxTrip/blob/major/giphy.gif" width="480" height="480">   
+<img src="https://github.com/DeveshxTrip/DeveshxTrip/blob/major/giphy.gif" width="200" height="200">   
 </td>
 </table>
 <br>
