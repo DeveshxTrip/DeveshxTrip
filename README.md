@@ -31,7 +31,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=deveshxtrip&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="720" height="580"> 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshxtrip&theme=dark&hide_border=false" width="1280" height="280">   
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshxtrip&theme=dark&hide_border=false" width="2280" height="280">   
 
 
 ## 🏆 GitHub Trophies
