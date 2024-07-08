@@ -15,9 +15,6 @@
 </table>
 <br>
 
-## 🌐 Socials:
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg)](https://www.linkedin.com/in/deveshxtrip//) 
-
 [//]:[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/deveshxtrip) 
 
 # 💻 Tech Stack:
@@ -40,10 +37,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deveshxtrip&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deveshxtrip&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+## 🌐 Socials:
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg)](https://www.linkedin.com/in/deveshxtrip//) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deveshxtrip&icon=2&color=12)](https://visitcount.itsvg.in)
