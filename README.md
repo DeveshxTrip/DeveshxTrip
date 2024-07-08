@@ -27,7 +27,7 @@
 
   <table>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshxtrip&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="720" height="580">   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshxtrip&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="480" height="480">   
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=deveshxtrip&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="720" height="580"> 
