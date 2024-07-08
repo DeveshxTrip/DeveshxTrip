@@ -5,12 +5,12 @@
 <table>
 <td>
   
-<img src="https://github.com/DeveshxTrip/DeveshxTrip/blob/major/aboutMe.png" width="720" height="580">   
+<img src="https://github.com/DeveshxTrip/DeveshxTrip/blob/major/aboutMe.png" width="820" height="480">   
 
 </td>
   
 <td>
-<img src="https://github.com/DeveshxTrip/DeveshxTrip/blob/major/giphy.gif" width="300" height="580">   
+<img src="https://github.com/DeveshxTrip/DeveshxTrip/blob/major/giphy.gif" width="200" height="480">   
 </td>
 </table>
 <br>
