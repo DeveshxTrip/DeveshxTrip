@@ -29,6 +29,8 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshxtrip&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deveshxtrip&theme=dark&hide_border=false)<br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=deveshxtrip&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="720" height="580"> 
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deveshxtrip&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
