@@ -41,8 +41,8 @@
 
 
 ## 🌐 Socials:
-<img src="https://visitcount.itsvg.in" width="100" height="100">   
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg)](https://www.linkedin.com/in/deveshxtrip//) 
+<img src="https://visitcount.itsvg.in" width="100" height="300">   
+<!-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg)](https://www.linkedin.com/in/deveshxtrip//)  -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deveshxtrip&icon=2&color=12)](https://visitcount.itsvg.in)
