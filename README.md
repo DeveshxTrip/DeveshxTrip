@@ -41,7 +41,10 @@
 
 
 ## 🌐 Socials:
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" width="300" height="100">   
+<a href="https://www.linkedin.com/in/deveshxtrip/">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" width="300" height="100"> 
+</a>
 <!-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg)](https://www.linkedin.com/in/deveshxtrip//)  -->
 
 ---
