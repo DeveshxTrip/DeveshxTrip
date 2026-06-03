@@ -22,6 +22,8 @@
 # 📊 GitHub Stats:
 
 
+[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshxtrip)](https://github.com/anuraghazra/github-readme-stats)
+
   <table >
 <td>
   
