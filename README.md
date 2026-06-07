@@ -26,7 +26,7 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deveshxtrip&layout=compact&theme=radical)
 
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshxtrip&theme=dark&hide_border=false" width="1280" height="280">   
+  
 
 
 ## 🏆 GitHub Trophies
